@@ -1,6 +1,13 @@
+## 特别鸣谢
+https://github.com/LloydAsp/nfd
+
+---
+
+
+
 # 🤖 PM 机器人托管平台 (PM Bot Platform)
 
-基于 Cloudflare Workers 的 Telegram 私聊机器人托管与管理系统
+基于NFD项目二开加了人机验证
 
 📖 项目简介
 
